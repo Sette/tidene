@@ -42,7 +42,7 @@ Esta operação registra todas as alterações realizadas em arquivos do diretó
 
 $ git push origin master 
 
-Esta operação atualiza o repositório pricipal com as alterações realizadas
+Esta operação atualiza o repositório principal com as alterações realizadas
 
 # Atualizando meu repositório
 
