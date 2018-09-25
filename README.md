@@ -28,9 +28,14 @@ $ cd tidene
 Logo depois de serem feitas as alterações, rode os seguintes comandos para enviar a novar versão para o repositório:
 
 $ git add *
+
 Este comando adiciona novos arquivos ao repositório local
+
 $ git commit -m "Commit inicial"
+
 Esta operação registra todas as alterações realizadas em arquivos do diretório
+
 $ git push origin master 
+
 Esta operação atualiza o repositório pricipal com as alterações realizadas
 
