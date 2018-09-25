@@ -9,6 +9,7 @@ $ sudo apt install git
 A primeira coisa que você deve fazer quando instalar o Git é definir o seu nome de usuário e endereço de e-mail. Isso é importante porque todos os commits no Git utilizam essas informações, e está imutavelmente anexado nos commits que você realiza:
 
 $ git config --global user.name "John Doe"
+
 $ git config --global user.email johndoe@example.com
 
 # Defina seu ambiente
@@ -16,11 +17,15 @@ $ git config --global user.email johndoe@example.com
 Escolha um local para iniciar seus repositórios git. Sugestão :
 
 $ cd ~
+
 $ mkdir git
+
 $ cd git
 
 # Clone um repositório
+
 $ git clone https://github.com/Sette/tidene.git
+
 $ cd tidene
 
 # Faça um commit e um push
