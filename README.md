@@ -44,3 +44,8 @@ $ git push origin master
 
 Esta operação atualiza o repositório pricipal com as alterações realizadas
 
+# Atualizando meu repositório
+
+Caso haja alguma alteração no reposotório master, podemos atualizar o repositório local com o comando:
+
+$ git pull
